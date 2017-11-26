@@ -1,7 +1,10 @@
-*
-!*.tex
-!sections
-!.gitignore
-!images
-!.gitkeep
-!README.md
+*.aux
+*.bcf
+*.log
+*.nav
+*.out
+*.pdf
+*.xml
+*.snm
+*.synctex.gz
+*.toc
