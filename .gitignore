@@ -1,9 +1,9 @@
-*
+/*
 !*.tex
-!sections
+!sections/*.tex
 !.gitignore
+!images/
 !images/*.png
 !images/*.jpg
-!images/*.jpeg
 !.gitkeep
 !README.md
