@@ -1,5 +1,7 @@
 /*
 !*.tex
+!sections/
+sections/*
 !sections/*.tex
 !.gitignore
 !images/
